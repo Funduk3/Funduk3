@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, Я Федор</h1>
-<h3 align="center">Java-разработчик</h3>
+<h3 align="center">Backend-разработчик</h3>
 
 ### 🛠️ Технологический стек
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
